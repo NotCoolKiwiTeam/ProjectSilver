@@ -3,6 +3,13 @@ Project Silver is a FPS game where the goal is to escape the world that you are 
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/NotCoolKiwiTeam/ProjectSilver)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/NotCoolKiwiTeam/ProjectSilver/graphs/commit-activity)
+![Maintaner](https://img.shields.io/badge/maintainer-NotCoolKiwi-blue)
+[![Website Status](https://img.shields.io/website-up-down-green-red/https/kiwiteam.org.svg)](https://kiwiteam.org)
+[![GitHub license](https://img.shields.io/github/license/NotCoolKiwiTeam/ProjectSilver.svg)](https://github.com/NotCoolKiwiTeam/ProjectSilver/main/LICENSE)
+[![Github Downloads](https://img.shields.io/github/downloads/NotCoolKiwiTeam/ProjectSilver/total.svg)](https://github.com/NotCoolKiwiTeam/ProjectSilver/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/NotCoolKiwiTeam/ProjectSilver.svg)](https://GitHub.com/NotCoolKiwiTeam/ProjectSilver/tags/)
+[![GitHub stars](https://img.shields.io/github/stars/NotCoolKiwiTeam/ProjectSilver.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.comNotCoolKiwiTeam/ProjectSilver/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/NotCoolKiwiTeam/ProjectSilver.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/NotCoolKiwiTeam/ProjectSilver/watchers/)
 
 # See The Wiki For More Info #
 See the wiki at:
