@@ -14,7 +14,6 @@ Project Silver is a FPS game where the goal is to escape the world that you are 
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/NotCoolKiwiTeam/ProjectSilver.svg)](https://GitHub.com/NotCoolKiwiTeam/ProjectSilver/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/NotCoolKiwiTeam/ProjectSilver.svg)](https://GitHub.com/NotCoolKiwiTeam/ProjectSilver/pull/)
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/NotCoolKiwiTeam/ProjectSilver.svg)](https://GitHub.com/NotCoolKiwiTeam/ProjectSilver/pull/)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](patreon.com/KiwiTeam)
 ![Made Using Atom](https://badgen.net/badge/icon/atom?icon=atom&label)
 ![Terminal Icon](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 [![Size](https://badge-size.herokuapp.com/NotCoolKiwiTeam/ProjectSilver)](https://github.com/NotCoolKiwiTeam/ProjectSilver)
@@ -23,7 +22,10 @@ Project Silver is a FPS game where the goal is to escape the world that you are 
 [![Support Server](https://img.shields.io/discord/687418715859451904.svg?color=7289da&label=KiwiTeam&logo=discord&style=flat-square)](https://discord.gg/dtT5FFwwGn)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://patreon.com/KiwiTeam)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://kiwiteam.org)
+
+
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://kiwiteam.org)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](patreon.com/KiwiTeam)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/KiwiTeamCode/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeJt0tP7Gz6H1NR8iuGbyvQ)
 [![YouTube Gaming](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UCLQoNVR-sTdjLPBZdMK4MMw)
@@ -35,6 +37,7 @@ Project Silver is a FPS game where the goal is to escape the world that you are 
 ![Made With Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Steam Accounts And OAuth API](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
 
 # See The Wiki For More Info #
 See the wiki at:
