@@ -2,6 +2,7 @@
 Project Silver is a FPS game where the goal is to escape the world that you are trapped in. In each level you will finish all the objectives to move to the next level!
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/NotCoolKiwiTeam/ProjectSilver)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/NotCoolKiwiTeam/ProjectSilver/graphs/commit-activity)
 
 # See The Wiki For More Info #
 See the wiki at:
