@@ -21,9 +21,9 @@ Project Silver is a FPS game where the goal is to escape the world that you are 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/NotCoolKiwi/badges)
 [![Support Server](https://img.shields.io/discord/687418715859451904.svg?color=7289da&label=KiwiTeam&logo=discord&style=flat-square)](https://discord.gg/dtT5FFwwGn)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://patreon.com/KiwiTeam)
+
+
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://kiwiteam.org)
-
-
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://kiwiteam.org)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](patreon.com/KiwiTeam)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/KiwiTeamCode/)
