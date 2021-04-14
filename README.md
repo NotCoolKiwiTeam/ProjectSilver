@@ -2,6 +2,7 @@
 Project Silver is a FPS game where the goal is to escape the world that you are trapped in. In each level you will finish all the objectives to move to the next level!
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/NotCoolKiwiTeam/ProjectSilver)
+![Project Silver](https://badgen.net/badge/ProjectSilver/KiwiTeam/green?icon=github)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/NotCoolKiwiTeam/ProjectSilver/graphs/commit-activity)
 ![Maintaner](https://img.shields.io/badge/maintainer-NotCoolKiwi-blue)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
@@ -13,6 +14,9 @@ Project Silver is a FPS game where the goal is to escape the world that you are 
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/NotCoolKiwiTeam/ProjectSilver.svg)](https://GitHub.com/NotCoolKiwiTeam/ProjectSilver/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/NotCoolKiwiTeam/ProjectSilver.svg)](https://GitHub.com/NotCoolKiwiTeam/ProjectSilver/pull/)
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/NotCoolKiwiTeam/ProjectSilver.svg)](https://GitHub.com/NotCoolKiwiTeam/ProjectSilver/pull/)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](patreon.com/KiwiTeam)
+![Made Using Atom](https://badgen.net/badge/icon/atom?icon=atom&label)
+![Terminal Icon](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 [![Size](https://badge-size.herokuapp.com/NotCoolKiwiTeam/ProjectSilver)](https://github.com/NotCoolKiwiTeam/ProjectSilver)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/NotCoolKiwi/badges/)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/NotCoolKiwi/badges)
@@ -31,10 +35,6 @@ Project Silver is a FPS game where the goal is to escape the world that you are 
 ![Made With Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Steam Accounts And OAuth API](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](patreon.com/KiwiTeam)
-![Made Using Atom](https://badgen.net/badge/icon/atom?icon=atom&label)
-![Terminal Icon](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-![Project Silver](https://badgen.net/badge/ProjectSilver/KiwiTeam/green?icon=github)
 
 # See The Wiki For More Info #
 See the wiki at:
