@@ -4,3 +4,8 @@ Project Silver is a FPS game where the goal is to escape the world that you are 
 # See The Wiki For More Info #
 See the wiki at:
 - https://github.com/NotCoolKiwiTeam/ProjectSilver/wiki
+
+## Releases
+
+> All Releases can be found here:
+- https://github.com/NotCoolKiwiTeam/ProjectSilver/releases
