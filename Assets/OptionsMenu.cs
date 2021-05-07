@@ -12,7 +12,7 @@ public class OptionsMenu : MonoBehaviour
 
     Resolution[] resolutions;
 
-    void start ()
+    void start()
     {
         resolutions = Screen.resolutions;
 
